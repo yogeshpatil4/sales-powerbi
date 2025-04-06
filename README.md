@@ -1,6 +1,6 @@
 # 📊 Sales Performance & Customer Insights Dashboard
 
-## 📜 Table of Contents
+## 📜Contents
 1. [Project Overview](#-project-overview)
 2. [Objective](#-objective)
 3. [Dataset Description](#-dataset-description)
@@ -60,10 +60,14 @@ The project uses three main datasets:
 - Advanced **DAX formulas** for dynamic metrics and trend analysis.
 
 ## 📷 Dashboard Screenshots
-(Add screenshots of your Power BI dashboards here)
+### Sales Performance Dashboard
+![Sales Performance Dashboard](https://github.com/yogeshpatil4/sales-powerbi/blob/main/images/Screenshot%202025-04-06%20090656.png)
+
+### Customer Insights Dashboard
+![Customer Insights Dashboard](https://github.com/yogeshpatil4/sales-powerbi/blob/main/images/Screenshot%202025-04-06%20090712.png)
 
 ## 🎯 Conclusion
 This Power BI project provides a comprehensive analysis of sales performance and customer behavior. By leveraging interactive dashboards, businesses can gain valuable insights into revenue trends, customer demographics, and product performance. The project enhanced skills in data cleaning, segmentation, and advanced Power BI functionalities, making it a valuable learning experience.
 
 ---
-✨ *Developed with Power BI by [Your Name]*
+✨ *Developed with Power BI by [Yogesh Patil]*
