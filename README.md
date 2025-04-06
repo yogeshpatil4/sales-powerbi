@@ -1,6 +1,6 @@
 # 📊 Sales Performance & Customer Insights Dashboard
 
-## 📜 Contents
+## 📜 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Objective](#-objective)
 3. [Dataset Description](#-dataset-description)
@@ -34,11 +34,19 @@ The project uses three main datasets:
 - **Dashboard Enhancements:** Included total sales, total quantity sold, and total orders, along with their monthly differences and Month-over-Month (MoM) growth.
 
 ## 📊 Key Insights
+### Sales Performance Dashboard
 - **Total Revenue:** $32.06M
 - **Top 5 Products by Revenue:** MacBook Pro, iPhone, ThinkPad Laptop, Google Phone, 34-inch Ultrawide Monitor
 - **Revenue Trends:** Highest in December ($4.29M), lowest in January ($1.69M)
 - **Top States by Revenue:** California ($12.74M), New York ($4.34M), Texas ($4.27M)
-- **Customer Insights:** 141K total customers, 22% repeat customers, and an average revenue per customer of $228.
+- **MoM Growth Analysis:** Revenue saw a peak increase of **15% in December**, while the largest decline was **10% in February**.
+
+### Customer Insights Dashboard
+- **Total Customers:** 141K
+- **Repeat Customers:** 22%
+- **Customer Segmentation:** Majority of customers belong to the **'High-Value'** and **'Frequent Buyers'** segments.
+- **Age Group Analysis:** Highest spending comes from the **25-34** age group.
+- **Average Revenue per Customer:** $228
 
 ## 🚧 Challenges & Learning
 ### Challenges Faced:
