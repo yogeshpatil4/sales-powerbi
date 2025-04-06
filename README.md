@@ -70,4 +70,4 @@ The project uses three main datasets:
 This Power BI project provides a comprehensive analysis of sales performance and customer behavior. By leveraging interactive dashboards, businesses can gain valuable insights into revenue trends, customer demographics, and product performance. The project enhanced skills in data cleaning, segmentation, and advanced Power BI functionalities, making it a valuable learning experience.
 
 ---
-✨ *Developed with Power BI by [Yogesh Patil]*
+✨ *Developed with Power BI by Yogesh Patil*
